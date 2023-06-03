@@ -2150,6 +2150,10 @@ Computer-Mediated Communication of his Supporters</a>
 	<td><a href="https://hartmast.github.io/iclc16/abstracts/ICLC16_paper_FN14.pdf">Reconstructing storylines by integrating referential grounding in a FrameNet dataset: an applied approach of computational storytelling</a>
 </tr>
 <tr>
+	<td>Levi Remijnse, Pia Sommerauer, Antske Fokkens and Piek Vossen</td>
+	<td><a href="https://hartmast.github.io/iclc16/abstracts/ICLC16_paper_FN17.pdf">How to analyze semantic roles across interfaces: taking FrameNet to discourse level</a>
+</tr>
+<tr>
 	<td>Voula Giouli, Vera Pilitsidou and Hephestion Christopoulos</td>
 	<td><a href="https://hartmast.github.io/iclc16/abstracts/ICLC16_paper_FN15.pdf">The Greek FrameNet project: populating and interlinking a lexical resource</a>
 </tr>
